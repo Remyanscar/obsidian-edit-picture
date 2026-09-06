@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-edit-picture",
+  "name": "\uD83D\uDCA0 Edit Picture",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Removes black backgrounds or inverts colors of images directly within Obsidian notes.",
+  "author": "Remyanscar",
+  "isDesktopOnly": false
+}
